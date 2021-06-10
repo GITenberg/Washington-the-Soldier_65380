@@ -1,0 +1,30 @@
+_repo: Washington-the-Soldier_65380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carrington, Henry B.
+    aliases:
+    - Carrington, Henry Beebee
+    - Carrington, H. B. (Henry Beebee)
+    birthdate: 1824
+    deathdate: 1912
+    gutenberg_agent_id: '53310'
+    url: http://www.gutenberg.org/2009/agents/53310
+    wikipedia: https://en.wikipedia.org/wiki/Henry_B._Carrington
+description: ''
+gutenberg_issued: '2021-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65380'
+  lccn: '99005601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Campaigns'
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799'
+- GITenberg
+title: Washington the Soldier
+url: http://www.gutenberg.org/ebooks/65380
